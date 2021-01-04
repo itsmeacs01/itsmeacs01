@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello, I'm [Aashish Pokhrel!] 👋
 
-<!--
-**itsmeacs01/itsmeacs01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Adaptable and responsible person, Seeking a projects to work and continue my IT career. 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MERN projects.
+- 🌱 I’m currently learning about React & Jest.
+- 👯 I’m looking to collaborate on open source project.
+- 🤔 I’m looking for help with design.
+- 💬 Ask me about MERN.
+- 📫 How to reach me: [Twitter - @itsmeacs01](https://twitter.com/itsmeacs01) , [Linkdin - @Aashish Pokhrel](https://www.linkedin.com/in/aashish-pokhrel-5b7690137/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spent my most of time Listning to music.
