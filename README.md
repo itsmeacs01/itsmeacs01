@@ -1,4 +1,4 @@
-### Hello, I'm [Aashish Pokhrel!] 👋
+### Hello, I'm [ Aashish Pokhrel ! ] 👋
 
 ### Adaptable and responsible person, Seeking a projects to work and continue my IT career. 👋
 
