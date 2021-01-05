@@ -1,6 +1,6 @@
 ### Hello, I'm [ Aashish Pokhrel ! ] 👋
 
-### Adaptable and responsible person, Seeking a projects to work and continue my IT career. 👋
+### Adaptable and responsible person, Seeking some projects to work and continue my IT career. 👋
 
 - 🔭 I’m currently working on MERN projects.
 - 🌱 I’m currently learning about React & Jest.
