@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **TypeScript **
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **open source project**
 
