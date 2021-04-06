@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **design**
 
-- 💬 Ask me about **Nodej, Express, Sequelize, MongoDB**
+- 💬 Ask me about **Nodejs, Express, Sequelize, MongoDB**
 
 - 📫 How to reach me **itsmeacs01@gmail.com**
 
