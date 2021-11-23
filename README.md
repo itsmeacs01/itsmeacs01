@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aashish Pokhrel</h1>
-<h3 align="center">A passionate backend developer from Nepal🇳🇵.</h3>
+<h3 align="center">A passionate full stack developer from Nepal🇳🇵.</h3>
 
 <p align="center">
+  <br />
   
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **MERN stack projects**
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **design**
+- 🤝 I’m looking for help with **data structure and algorithms**
 
-- 💬 Ask me about **Nodejs, Express, Sequelize, MongoDB**
+- 💬 Ask me about **NodeJS, ReactJS, ExpressJS, Sequelize, MongoDB**
 
 - 📫 How to reach me **itsmeacs01@gmail.com**
 
